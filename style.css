@@ -8,7 +8,7 @@ body {
 
 header {
     display: flex;
-    background-color: #d24d6e;
+    background-color: #15181a;
     color: #ffffff;
     font-size: 32px;
     font-weight: bold;
@@ -46,8 +46,8 @@ a {
 
 .hero {
     display: flex;
-    background-color: #ffffff;
-    color: #15181a;
+    background-color: #15181a;
+    color: #d24d6e;
     justify-content: space-evenly;
     padding: 80px 0;
     gap: 60px;
@@ -105,12 +105,12 @@ a {
 }
 
 .quote-page {
-    background-color: #15181a;
+    background-color: #28616a;
     display: flex;
     flex-wrap: wrap;
     align-content: center;
     justify-content: center;
-    color: #28616a;
+    color: #ffffff;
 }
 
 .quote {
@@ -131,16 +131,16 @@ a {
 }
 
 .pop-up {
-    background-color: #15181a;
+    background-color: #28616a;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .banner {
-    background-color: #28616a;
+    background-color: #15181a;
     border-radius: 24px;
-    margin: 80px;
+    margin: 64px 0;
     display: flex;
     height: 200px;
     width: 960px;
@@ -151,7 +151,7 @@ a {
 }
 
 .text {
-    color: #15181a;
+    color: #ffffff;
     font-size: 24px;
     width: 540px;
     margin-left: 40px;
@@ -171,9 +171,9 @@ a {
 
 button {
     border-radius: 24px;
-    border-color: #15181a;
-    color: #15181a;
-    background-color: #28616a;
+    border-color: #ffffff;
+    color: #ffffff;
+    background-color: #15181a;
     font-weight: bold;
     font-size: 16px;
     width: 200px;
@@ -184,7 +184,8 @@ button {
 }
 
 div.copyright {
-    background-color: #28616a;
+    background-color: #15181a;
+    color: #ffffff;
     display: flex;
     justify-content: center;
     align-items: center;
